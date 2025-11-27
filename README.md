@@ -1,4 +1,4 @@
-# GIT FROM ZERO HERO
+# GIT FROM ZERO TO HERO
 
 
 Conventions used:
