@@ -1,7 +1,6 @@
 
 ============================================================
-GIT FROM ZERO TO HERO — SCENARIO-BASED HANDBOOK (TEXT ONLY)
-By Victor (for Narendra) — All commands + flags + use‑cases + scenarios
+                     GIT FROM ZERO HERO
 ============================================================
 
 Conventions used:
@@ -752,8 +751,4 @@ S) Rename the current branch:
 T) Create signed tag (GPG set up):
    `git tag -s v3.0 -m "Signed release v3.0"`
 
-============================================================
-END — Keep practicing with small repos and real scenarios.
-Tip: Build your own cheatsheet from this handbook; rehearse aloud with examples.
-============================================================
 
