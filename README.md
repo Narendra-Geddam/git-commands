@@ -1,7 +1,5 @@
+                    # GIT FROM ZERO HERO
 
-============================================================
-                     GIT FROM ZERO HERO
-============================================================
 
 Conventions used:
 - Replace UPPERCASE with your own values (e.g., BRANCH, FILE, COMMIT, REMOTE).
